@@ -1,0 +1,7 @@
+{
+    "proxy_host": "dc.oxylabs.io",
+    "proxy_port": "8001",
+    "target_country": "US",
+    "loader_port": 5555
+    // Catatan: Username dan Password TIDAK disarankan disimpan di sini (lihat bagian Keamanan)
+}
